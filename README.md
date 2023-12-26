@@ -2,7 +2,7 @@
 I'm officially vintage
 
 ## About Me
-A 46-year old geek who's still continuing to learn new things.
+A 47-year old geek who's still continuing to learn new things.
 
 Despite working in Technology for the last 25 years, and being sure that I was never going to be a coder, and didn't need to ever learn "all the Developer stuff like Github" - I find that DevOps and Cloud technology has caught up to me... and isn't just "servers in the cloud".
 
